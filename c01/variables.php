@@ -1,5 +1,5 @@
 <?php 
-$name  = 'Tiffany';
+$name  = 'Ivy';
 $price = 5;
 ?>
 <!DOCTYPE html>
