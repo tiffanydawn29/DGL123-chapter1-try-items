@@ -6,6 +6,7 @@ $nutrition = [
 ];
 $nutrition['fat']   = 36;
 $nutrition['fiber'] = 2.1;
+$nutrition['protein'] = 7.3;
 ?>
 <!DOCTYPE html>
 <html>
