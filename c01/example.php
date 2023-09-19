@@ -1,5 +1,5 @@
 <?php
-$username = 'Ivy';                                   // Variable to hold username
+$username = 'Tiffany';                                   // Variable to hold username
 
 $greeting = 'Hello, ' . $username . '.';             // Greeting is 'Hello' + username
 
